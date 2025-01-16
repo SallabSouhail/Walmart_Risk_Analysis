@@ -1,0 +1,23 @@
+# Environnement et configuration
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'IDE
+.vscode/
+.idea/
+*.swp
+
+# Dossiers de données et résultats
+data/*.csv
+data/*.json
+!data/README.md
+
+# Fichiers de logs
+*.log

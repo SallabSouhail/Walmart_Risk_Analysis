@@ -1,0 +1,3715 @@
+[
+  {
+    "product": {
+      "availabilityStatus": "IN_STOCK",
+      "averageRating": 4.7,
+      "brand": "Apple",
+      "shortDescription": "Introducing The 13-inch MacBook Air with the Apple M1 chip is incredibly thin and light with a silent fanless design. It delivers remarkable performance and up to 18 hours of battery life. And it has a beautiful Retina display for super sharp text and vibrant colors. Amazing performance, Unbeatable price. It's a laptop you’re going to love!",
+      "id": "4SZSM8SXAAJT",
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "0D4F1BA24DB24A7F89FA742D2A069922",
+            "url": "https://i5.walmartimages.com/seo/Apple-MacBook-Air-13-3-inch-Laptop-Space-Gray-M1-Chip-8GB-RAM-256GB-storage_af1d4133-6de9-4bdc-b1c6-1ca8bd0af7a0.c0eb74c31b2cb05df4ed11124d0e255b.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "9AFC03FDCE904A69BE7DB0627AE8F691",
+            "url": "https://i5.walmartimages.com/asr/6241225e-db0b-44a0-a32f-c3d091feeb06.7efd482507c3842ef01d0073ea27c469.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "EAB14F3CE8164C928ACF11189FA11733",
+            "url": "https://i5.walmartimages.com/asr/ba4ae73f-1b71-4dc8-b3f9-002011a8eeab.10ec59c250ff7f6785e2a7e20858d739.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "022326451B744EE1A80821C39A0C3A4D",
+            "url": "https://i5.walmartimages.com/asr/898b596c-7fb0-41e4-8cb0-24b3c536db6b.81748360a86f642b4ae1ee7f63516010.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "1DD67F6DAE154260BAB9CD35CEA58A78",
+            "url": "https://i5.walmartimages.com/asr/da094631-7b8a-4f64-aa11-bd9970d1fce2.4d43107f620ec05096520408164579a9.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "53730AE72D6B48B9BBD38A23FAF05941",
+            "url": "https://i5.walmartimages.com/asr/a919e728-b40b-40a3-8a60-cc98fd3dce59.b2ee308be36ba238a488f9dcccc95883.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "0FCA009A230E4C8DB3386ED8084943CF",
+            "url": "https://i5.walmartimages.com/asr/77161db6-2467-4938-b7e1-a7107ac8a3fb.c61644f16963d474e61eadc6fb304ee4.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "5DD707F0F91140A4835A360D543343B3",
+            "url": "https://i5.walmartimages.com/asr/94fec3ea-d665-4cb1-8238-8e1d48baa509.15dd5b55f00cb62f0e99bbf54953cd81.jpeg",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/Apple-MacBook-Air-13-3-inch-Laptop-Space-Gray-M1-Chip-8GB-RAM-256GB-storage_af1d4133-6de9-4bdc-b1c6-1ca8bd0af7a0.c0eb74c31b2cb05df4ed11124d0e255b.jpeg"
+      },
+      "name": "Apple MacBook Air 13.3 inch Laptop - Space Gray, M1 Chip, Built for Apple Intelligence, 8GB RAM, 256GB storage",
+      "orderMinLimit": 1,
+      "orderLimit": 2,
+      "priceInfo": {
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": true,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": null,
+          "submapType": null,
+          "isB2BPrice": false
+        },
+        "currentPrice": {
+          "price": 649,
+          "priceString": "$649.00",
+          "variantPriceString": "$649.00",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "priceDisplay": "Now $649.00"
+        },
+        "wasPrice": {
+          "price": 699,
+          "priceString": "$699.00",
+          "variantPriceString": null,
+          "currencyUnit": "USD",
+          "bestValue": null
+        },
+        "comparisonPrice": null,
+        "unitPrice": null,
+        "savings": null,
+        "savingsAmount": {
+          "amount": 50,
+          "priceString": "SAVE $50.00"
+        },
+        "secondaryOfferBoost": null,
+        "shipPrice": null,
+        "isPriceReduced": true,
+        "priceReducedDisplay": "Now $649.00",
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null,
+        "additionalFees": {
+          "dutyFee": {
+            "price": null,
+            "priceString": null
+          },
+          "shippingAndImportFee": {
+            "price": null,
+            "priceString": null
+          },
+          "estimatedTotalPrice": {
+            "price": null,
+            "priceString": null
+          },
+          "countryName": null
+        }
+      },
+      "type": "Laptop Computers"
+    },
+    "reviews_raw": {
+      "averageOverallRating": 4.7,
+      "aspects": [
+        {
+          "id": "48",
+          "name": "Price",
+          "score": null,
+          "snippetCount": 463
+        },
+        {
+          "id": "6049",
+          "name": "Battery",
+          "score": null,
+          "snippetCount": 87
+        },
+        {
+          "id": "155",
+          "name": "Quality",
+          "score": null,
+          "snippetCount": 58
+        },
+        {
+          "id": "284",
+          "name": "Value",
+          "score": null,
+          "snippetCount": 45
+        },
+        {
+          "id": "12",
+          "name": "Ease Of Use",
+          "score": null,
+          "snippetCount": 43
+        },
+        {
+          "id": "208",
+          "name": "Packing",
+          "score": null,
+          "snippetCount": 31
+        },
+        {
+          "id": "582",
+          "name": "Appearance",
+          "score": null,
+          "snippetCount": 29
+        },
+        {
+          "id": "178",
+          "name": "Color",
+          "score": null,
+          "snippetCount": 27
+        },
+        {
+          "id": "658",
+          "name": "Screen",
+          "score": null,
+          "snippetCount": 25
+        },
+        {
+          "id": "407",
+          "name": "Kids",
+          "score": null,
+          "snippetCount": 25
+        },
+        {
+          "id": "395",
+          "name": "Reliability",
+          "score": null,
+          "snippetCount": 21
+        },
+        {
+          "id": "81",
+          "name": "Setup",
+          "score": null,
+          "snippetCount": 20
+        },
+        {
+          "id": "6",
+          "name": "Performance",
+          "score": null,
+          "snippetCount": 19
+        },
+        {
+          "id": "6051",
+          "name": "Charger",
+          "score": null,
+          "snippetCount": 18
+        },
+        {
+          "id": "11460",
+          "name": "Lightness",
+          "score": null,
+          "snippetCount": 18
+        },
+        {
+          "id": "21",
+          "name": "Size",
+          "score": null,
+          "snippetCount": 17
+        },
+        {
+          "id": "6061",
+          "name": "School",
+          "score": null,
+          "snippetCount": 16
+        },
+        {
+          "id": "184",
+          "name": "Speed",
+          "score": null,
+          "snippetCount": 15
+        },
+        {
+          "id": "435",
+          "name": "As A Gift",
+          "score": null,
+          "snippetCount": 12
+        },
+        {
+          "id": "145449",
+          "name": "Iphone",
+          "score": null,
+          "snippetCount": 12
+        },
+        {
+          "id": "1021",
+          "name": "Student",
+          "score": null,
+          "snippetCount": 11
+        },
+        {
+          "id": "1087",
+          "name": "Carry",
+          "score": null,
+          "snippetCount": 10
+        },
+        {
+          "id": "994",
+          "name": "For College",
+          "score": null,
+          "snippetCount": 10
+        },
+        {
+          "id": "2793",
+          "name": "Display",
+          "score": null,
+          "snippetCount": 9
+        },
+        {
+          "id": "160",
+          "name": "Light",
+          "score": null,
+          "snippetCount": 8
+        },
+        {
+          "id": "2013",
+          "name": "Computer",
+          "score": null,
+          "snippetCount": 3
+        }
+      ],
+      "aspectSummary": null,
+      "reviewSummary": {
+        "summary": "Customers are generally satisfied with this MacBook Air, praising its competitive price, ease of use, and vibrant screen. While some encounter issues with the charger and screen, many appreciate the product's value, considering it a great deal and a worthwhile investment. The computer's lightweight design and seamless setup process make it ideal for daily tasks and online classes. Overall, customers deem it a great value for money, despite some minor drawbacks.",
+        "summaryTitle": "Macbook air offers great value with competitive price and performance",
+        "summaryAspects": [
+          {
+            "aspectId": 658,
+            "aspectStart": 106,
+            "aspectEnd": 119,
+            "aspectSentiment": "neutral"
+          },
+          {
+            "aspectId": 48,
+            "aspectStart": 70,
+            "aspectEnd": 86,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 284,
+            "aspectStart": 413,
+            "aspectEnd": 433,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 2013,
+            "aspectStart": 277,
+            "aspectEnd": 284,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 12,
+            "aspectStart": 89,
+            "aspectEnd": 99,
+            "aspectSentiment": "positive"
+          }
+        ]
+      },
+      "lookupId": "7I16EOCS77VM",
+      "customerReviews": [
+        {
+          "reviewId": "351363618",
+          "rating": 5,
+          "reviewSubmissionTime": "7/20/2024",
+          "reviewText": "We are an Apple family (iPhones, iPads, MacBooks). My daughter is leaving for college next month, so she won't be able to borrow my wife's MacBook for her schoolwork. I was excited to see Walmart become the distributor for the **** M1 MacBook Air. Apple has moved on to focus on their M2 and M3 chip offerings, but the M1 is still a great machine, especially for a college student. It was already a great price at $****, but with it on sale for $****, it was too good to pass up! I was grateful I could afford it. Thanks again!",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 6,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "IncentivizedReviewYes",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "reviewId": "342629023",
+          "rating": 5,
+          "reviewSubmissionTime": "4/25/2024",
+          "reviewText": "Came in brand new fancy packaging!  I have been wanting one of these forever but couldn't justify the price . I got the silver so it matched my Chromebook when I work side by side. Operating system takes getting used to if you use. Chromebooks but it's easy enough. (CTRL   F is command F and so on...)",
+          "reviewTitle": "Brand New!",
+          "negativeFeedback": 6,
+          "positiveFeedback": 30,
+          "userNickname": "emma",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "reviewId": "349787202",
+          "rating": 5,
+          "reviewSubmissionTime": "7/10/2024",
+          "reviewText": "Was worried from seeing reviews by others that Walmart was shipping out refurbished units. Wasn't the case for me. Not crazy about the specs, but for $650 I'm willing to compromise.",
+          "reviewTitle": "Brand new!",
+          "negativeFeedback": 1,
+          "positiveFeedback": 4,
+          "userNickname": "Scott",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "reviewId": "340351720",
+          "rating": 5,
+          "reviewSubmissionTime": "4/2/2024",
+          "reviewText": "The product ordering and the item itself is fine. OnTrac shipping asked for a signature... I also provided written instructions to place the item behind a corner by our front door. Instead, the driver just left it, on the ground, directly in front of the front door, easily visible from the street. Drivers are busy people... but if they aren't reading specific instructions, what is Walmart's liability for package loss?",
+          "reviewTitle": null,
+          "negativeFeedback": 1,
+          "positiveFeedback": 4,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "338942981",
+          "rating": 5,
+          "reviewSubmissionTime": "3/19/2024",
+          "reviewText": "I've always wanted a MacBook and I saw that this one was on sale so I couldn't resist. It was delivered the next day. It came brand new in all of its Apple packaging and it was double boxed so it was extra protected during shipping. It was super easy and quick to set up. I'm so happy with my purchase and I'm glad I treated myself.",
+          "reviewTitle": "It's was on sale..",
+          "negativeFeedback": 46,
+          "positiveFeedback": 49,
+          "userNickname": "Queen",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "IncentivizedReviewYes",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "354868949",
+          "rating": 1,
+          "reviewSubmissionTime": "8/21/2024",
+          "reviewText": "Shipping delayed by days. Package delivery “signed” by delivery driver. I have cameras. Driver didn't even knock on door. Buy from Apple!!! Was told package had to be signed for so took vacation day off work. I could have paid a little more directly at the Apple Store for a newer model after taking into account delayed shipping and days of work.  Lesson learned!!",
+          "reviewTitle": "Worse service ever!!",
+          "negativeFeedback": 2,
+          "positiveFeedback": 14,
+          "userNickname": "Teresa",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "reviewId": "346080785",
+          "rating": 1,
+          "reviewSubmissionTime": "6/2/2024",
+          "reviewText": "NOT NEW! This is my second attempt on receiving a new MacBook Air this time I received it in basic Walmart bag no plastic seal around package so I opened it while the driver was there looked inside the laptop didn't have it out. The bottom was all scratched up they definitely did a deal with Apple and are selling all of their returned damaged MacBooks. And for the Walmart rep, when you read this, I will delete this review when you make it right",
+          "reviewTitle": "GREAT DEAL FOR A USED AND SCRATCHED LAPTOP",
+          "negativeFeedback": 15,
+          "positiveFeedback": 35,
+          "userNickname": "Adrian",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "reviewId": "353297987",
+          "rating": 1,
+          "reviewSubmissionTime": "8/6/2024",
+          "reviewText": "I NEVER RECEIVED THE ITEM.... IT IS NOW STUCK AT A WAREHOUSE>>>A MAJOR PAIN.  SO I CANNOT STATE ANYTHING ABOUT THE QUALITY OF THE ITEM SINCE I NEVER RECEIVED IT.  SO ONE STAR WAS GIVEN... SINCE I HAVE ABSOLUTELY NOTHING TO COMPARE. ZIP...ZERO...ZILTCH.  DON'T HAVE THE ITEM.  WAS RETURNED TO THE WAREHOUSE...",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 3,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "IncentivizedReviewYes",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "reviewId": "342949453",
+          "rating": 1,
+          "reviewSubmissionTime": "4/29/2024",
+          "reviewText": "Fedex delivered my package to the wrong door I opened a case with them called Walmart their supervisor hung up in my face and stated he had my signature in front of his face and was rude and disgusting. This is the image fedex provided NOT MY SIGNATURE and I provided my RING CAM FOOTAGE. Never ordering electronics online from here again. Disputing with my bank as well as filing a police report and formal complaint with Walmart Delivery for how I was treated even as an employee.",
+          "reviewTitle": null,
+          "negativeFeedback": 16,
+          "positiveFeedback": 61,
+          "userNickname": "Ronisha",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Affiliation",
+              "id": "Staff",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "WalmartAssociate",
+                "text": "Walmart Associate"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "339420539",
+          "rating": 1,
+          "reviewSubmissionTime": "3/23/2024",
+          "reviewText": "I ordered because Walmart promised delivery on Saturday. Waited all day because learned AFTER ordering that a signature would be required. No email or text that delivery of desperately-needed replacement computer would not arrive for two more days. Wasted day. BAD SERVICE WALMART….disclose signature required and have ACCURATE delivery info.",
+          "reviewTitle": "Delivery requires SIGNATURE. DELAYED w/out notice.",
+          "negativeFeedback": 11,
+          "positiveFeedback": 15,
+          "userNickname": "Chery",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": null,
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "IncentivizedReviewYes",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Silver"
+            }
+          ]
+        }
+      ],
+      "ratingValueFiveCount": 4317,
+      "ratingValueFourCount": 222,
+      "ratingValueOneCount": 196,
+      "ratingValueThreeCount": 60,
+      "ratingValueTwoCount": 27,
+      "roundedAverageOverallRating": 4.7,
+      "topNegativeReview": {
+        "reviewId": "354868949",
+        "rating": 1,
+        "reviewSubmissionTime": "8/21/2024",
+        "userNickname": "Teresa",
+        "negativeFeedback": 2,
+        "positiveFeedback": 14,
+        "reviewText": "Shipping delayed by days. Package delivery “signed” by delivery driver. I have cameras. Driver didn't even knock on door. Buy from Apple!!! Was told package had to be signed for so took vacation day off work. I could have paid a little more directly at the Apple Store for a newer model after taking into account delayed shipping and days of work.  Lesson learned!!",
+        "reviewTitle": "Worse service ever!!",
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "media": null
+      },
+      "topPositiveReview": {
+        "reviewId": "351363618",
+        "rating": 5,
+        "reviewSubmissionTime": "7/20/2024",
+        "userNickname": "WalmartCustomer",
+        "negativeFeedback": 0,
+        "positiveFeedback": 6,
+        "reviewText": "We are an Apple family (iPhones, iPads, MacBooks). My daughter is leaving for college next month, so she won't be able to borrow my wife's MacBook for her schoolwork. I was excited to see Walmart become the distributor for the **** M1 MacBook Air. Apple has moved on to focus on their M2 and M3 chip offerings, but the M1 is still a great machine, especially for a college student. It was already a great price at $****, but with it on sale for $****, it was too good to pass up! I was grateful I could afford it. Thanks again!",
+        "reviewTitle": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "PrizeIncentive",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "clientResponses": null,
+        "media": null
+      },
+      "topProductMedia": null,
+      "totalMediaCount": 167,
+      "totalReviewCount": 4822,
+      "reviewsWithTextCount": 1602,
+      "percentageFiveCount": 90,
+      "percentageFourCount": 5,
+      "percentageThreeCount": 1,
+      "percentageTwoCount": 1,
+      "percentageOneCount": 4,
+      "reviewAndRatingCountAsString": {
+        "totalReviewsCountAsString": "4,822",
+        "reviewsWithTextCountAsString": "1,602",
+        "ratingValueOneCountAsString": "196",
+        "ratingValueTwoCountAsString": "27",
+        "ratingValueThreeCountAsString": "60",
+        "ratingValueFourCountAsString": "222",
+        "ratingValueFiveCountAsString": "4,317"
+      },
+      "reviewFeatures": null,
+      "itemVariantInfo": null
+    }
+  },
+  {
+    "product": {
+      "availabilityStatus": "IN_STOCK",
+      "averageRating": null,
+      "brand": "Beautiful",
+      "shortDescription": "For the cook with limited counter space, the Beautiful 3-Quart Digital Air Fryer with patent-pending TurboCrisp™ Technology is the space-saver that solves for a cramped kitchen. Small but mighty, this kitchen essential boasts 4 presets - Air Fry, Bake, Roast, and Reheat. Enjoy fast, crisp, evenly-cooked food due to superior air flow technology, and feel free to place the TurboCrisp™ tray and basket in the dishwasher afterwards for painless clean-up. With its soft matte finish and digital touch-activated display, this 3-Quart Digital Air Fryer is sure to elevate your kitchen and become a new favorite. Created by Drew Barrymore, Beautiful Kitchenware® combines elegant design and contemporary colors for high-performance appliances that look beautiful on your kitchen counter. 1200 Watts. Model: 19704.",
+      "id": "5R7FKX0MEZ7S",
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "81F91D07188B49B9B05D0CEA4F99BA68",
+            "url": "https://i5.walmartimages.com/seo/BTFL-3QT-AIRFRY-ROSE_4cc2d2e3-10ee-4228-83da-9d3f110e93d8.5e18da056b6b2fa6e3b99f4546ee2d8f.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "05C9C08C8A944320992662CD860C7CA2",
+            "url": "https://i5.walmartimages.com/asr/27bdc4ef-9787-4006-a487-3d9f3dfe80cd.64b998afef1bc0d89672c10b0409cbc6.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "DE38D818446B43F5887D539EEB8EEBE6",
+            "url": "https://i5.walmartimages.com/asr/07d86abb-d7ea-46e5-b7a5-56fca9fc1327.2beb709668e75aba28f4985c3081361e.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "9898D8468AE04ACA848E4B8988C74550",
+            "url": "https://i5.walmartimages.com/asr/b5e2aa2b-2e37-4079-9e32-89510df9a741.fc1d64b122bff23afab2c071b33364ba.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "909F9DD7D44C4290AD74849DC86A2513",
+            "url": "https://i5.walmartimages.com/asr/2cb73517-8579-4bbc-bf74-ccb0210478ed.987aa72b6c8d9d147503c1e45f2f86d2.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "75B06808E85D45D0AC4E1C3C821FB37A",
+            "url": "https://i5.walmartimages.com/asr/7197fc98-170e-4a42-99f7-da9215198aea.9dbed604d60ad29031043241f5120af5.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "0B5279599188429B9262556128E36188",
+            "url": "https://i5.walmartimages.com/asr/6e616d3c-0a42-4881-9141-a35e722fb32e.acb574d2fb0edb456a86c1675005a741.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "59130785FFFE4E4E9631CCAEBA2BE1DA",
+            "url": "https://i5.walmartimages.com/asr/e7a27d9b-f9c3-443c-a2ee-fc0271321844.087d7a7ecfa88d64b657ce110b1d6012.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "B05E898B9D4240ECA8596941D15E2447",
+            "url": "https://i5.walmartimages.com/asr/1776a8d8-079f-4fef-bd98-3de4a04f18c5.064cab5fcc49032cd076baa3ed62ec11.jpeg",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/BTFL-3QT-AIRFRY-ROSE_4cc2d2e3-10ee-4228-83da-9d3f110e93d8.5e18da056b6b2fa6e3b99f4546ee2d8f.jpeg"
+      },
+      "name": "Beautiful 3 Qt Air Fryer with TurboCrisp Technology, Rose by Drew Barrymore",
+      "orderMinLimit": 1,
+      "orderLimit": 99,
+      "priceInfo": {
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": true,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": true,
+          "submapType": null,
+          "isB2BPrice": false
+        },
+        "currentPrice": {
+          "price": 34.96,
+          "priceString": "$34.96",
+          "variantPriceString": "$34.96",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "priceDisplay": "Now $34.96"
+        },
+        "wasPrice": {
+          "price": 39.96,
+          "priceString": "$39.96",
+          "variantPriceString": null,
+          "currencyUnit": "USD",
+          "bestValue": null
+        },
+        "comparisonPrice": null,
+        "unitPrice": null,
+        "savings": null,
+        "savingsAmount": {
+          "amount": 5,
+          "priceString": "SAVE $5.00"
+        },
+        "secondaryOfferBoost": null,
+        "shipPrice": null,
+        "isPriceReduced": true,
+        "priceReducedDisplay": "Now $34.96",
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null,
+        "additionalFees": {
+          "dutyFee": {
+            "price": null,
+            "priceString": null
+          },
+          "shippingAndImportFee": {
+            "price": null,
+            "priceString": null
+          },
+          "estimatedTotalPrice": {
+            "price": null,
+            "priceString": null
+          },
+          "countryName": null
+        }
+      },
+      "type": "Air Fryers"
+    },
+    "reviews_raw": {
+      "averageOverallRating": 4.4375,
+      "aspects": [],
+      "aspectSummary": null,
+      "reviewSummary": null,
+      "lookupId": "3FK76Q7GXEYS",
+      "customerReviews": [
+        {
+          "reviewId": "369979470",
+          "rating": 5,
+          "reviewSubmissionTime": "12/30/2024",
+          "reviewText": "I love color. It is so beautiful and it works so great cook the food just perfectly and I am just absolutely in love with it. Buy it. You won't regret it. I love color. It is so beautiful and it works so great cook the food just perfectly and I am just absolutely in love with it. Buy it. You won't regret it.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Beverly",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Rose"
+            }
+          ]
+        },
+        {
+          "reviewId": "372031151",
+          "rating": 5,
+          "reviewSubmissionTime": "1/13/2025",
+          "reviewText": "Pretty and works beautiful.",
+          "reviewTitle": "Beautiful",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Martha",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Rose"
+            }
+          ]
+        },
+        {
+          "reviewId": "371996010",
+          "rating": 5,
+          "reviewSubmissionTime": "1/13/2025",
+          "reviewText": "Works great works great",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Maureen",
+          "fulfilledBy": "UNSCHEDULED_DELIVERY",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Rose"
+            }
+          ]
+        },
+        {
+          "reviewId": "371849919",
+          "rating": 5,
+          "reviewSubmissionTime": "1/12/2025",
+          "reviewText": "I was so surprised",
+          "reviewTitle": "Amazing gift",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Tammy",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Rose"
+            }
+          ]
+        },
+        {
+          "reviewId": "369977226",
+          "rating": 1,
+          "reviewSubmissionTime": "12/30/2024",
+          "reviewText": "Havent used product yet",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Rose"
+            }
+          ]
+        }
+      ],
+      "ratingValueFiveCount": 13,
+      "ratingValueFourCount": 1,
+      "ratingValueOneCount": 2,
+      "ratingValueThreeCount": 0,
+      "ratingValueTwoCount": 0,
+      "roundedAverageOverallRating": 4.4,
+      "topNegativeReview": {
+        "reviewId": "369977226",
+        "rating": 1,
+        "reviewSubmissionTime": "12/30/2024",
+        "userNickname": "WalmartCustomer",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "Havent used product yet",
+        "reviewTitle": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "PrizeIncentive",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "media": null
+      },
+      "topPositiveReview": {
+        "reviewId": "369979470",
+        "rating": 5,
+        "reviewSubmissionTime": "12/30/2024",
+        "userNickname": "Beverly",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "I love color. It is so beautiful and it works so great cook the food just perfectly and I am just absolutely in love with it. Buy it. You won't regret it. I love color. It is so beautiful and it works so great cook the food just perfectly and I am just absolutely in love with it. Buy it. You won't regret it.",
+        "reviewTitle": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "clientResponses": null,
+        "media": null
+      },
+      "topProductMedia": [],
+      "totalMediaCount": 0,
+      "totalReviewCount": 16,
+      "reviewsWithTextCount": 5,
+      "percentageFiveCount": 81,
+      "percentageFourCount": 6,
+      "percentageThreeCount": 0,
+      "percentageTwoCount": 0,
+      "percentageOneCount": 13,
+      "reviewAndRatingCountAsString": {
+        "totalReviewsCountAsString": "16",
+        "reviewsWithTextCountAsString": "5",
+        "ratingValueOneCountAsString": "2",
+        "ratingValueTwoCountAsString": "0",
+        "ratingValueThreeCountAsString": "0",
+        "ratingValueFourCountAsString": "1",
+        "ratingValueFiveCountAsString": "13"
+      },
+      "reviewFeatures": null,
+      "itemVariantInfo": null
+    }
+  },
+  {
+    "product": {
+      "availabilityStatus": "IN_STOCK",
+      "averageRating": 4.8,
+      "brand": "CeraVe",
+      "shortDescription": "Developed with dermatologists, CeraVe Intensive Moisturizing Lotion is formulated with Hydro-Urea™, a unique complex to help replenish skin's natural moisturizing factors, 3 essential ceramides, MVE Delivery Technology, and shea butter to intensely hydrate, restore and help strengthen the skin barrier.  This rich, creamy, hydrating body lotion penetrates skin's surface layers to deeply hydrate and relieve itch due to dryness without leaving behind any greasy or sticky residues. This body moisturizer's fast absorbing and fast acting formula relieves and defends against 5 key signs of dryness - itch, tightness, roughness, scaling & flaking, and redness for intensely moisturized and healthier looking skin. Formulated for dry to very dry, itchy skin, this lotion for itchy skin is allergy tested, fragrance free, pH balanced, and suitable for use by all skin types, even sensitive skin and all skin tones. For best results, it is recommended to use this product daily.",
+      "id": "5IX1LJOH8FQH",
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "DC52A5908D1947F799F02CA42BDF23EA",
+            "url": "https://i5.walmartimages.com/seo/CeraVe-Intensive-Moisturizing-Body-Lotion-with-Hydro-Urea-for-Dry-Skin-Itch-Relief-16-oz_4faa174c-744d-42fd-9185-1874fbe3a48d.17b30c7f7c7e658ecf0f2c32847c7e2f.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "BC92506FF684479AB35039D3BD8039DB",
+            "url": "https://i5.walmartimages.com/asr/639895de-82a5-4dcb-90cd-6e68db19bd01.425240a8dbbbe836cef620fcb8d81f43.jpeg",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/CeraVe-Intensive-Moisturizing-Body-Lotion-with-Hydro-Urea-for-Dry-Skin-Itch-Relief-16-oz_4faa174c-744d-42fd-9185-1874fbe3a48d.17b30c7f7c7e658ecf0f2c32847c7e2f.jpeg"
+      },
+      "name": "CeraVe Intensive Moisturizing Body Lotion with Hydro-Urea for Dry Skin + Itch Relief 16 oz",
+      "orderMinLimit": 1,
+      "orderLimit": 12,
+      "priceInfo": {
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": true,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": null,
+          "submapType": null,
+          "isB2BPrice": false
+        },
+        "currentPrice": {
+          "price": 18.97,
+          "priceString": "$18.97",
+          "variantPriceString": "$18.97",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "priceDisplay": "$18.97"
+        },
+        "wasPrice": null,
+        "comparisonPrice": null,
+        "unitPrice": {
+          "price": 1.19,
+          "priceString": "$1.19/fl oz",
+          "variantPriceString": null,
+          "currencyUnit": "USD",
+          "bestValue": null
+        },
+        "savings": null,
+        "savingsAmount": null,
+        "secondaryOfferBoost": null,
+        "shipPrice": null,
+        "isPriceReduced": false,
+        "priceReducedDisplay": null,
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null,
+        "additionalFees": {
+          "dutyFee": {
+            "price": null,
+            "priceString": null
+          },
+          "shippingAndImportFee": {
+            "price": null,
+            "priceString": null
+          },
+          "estimatedTotalPrice": {
+            "price": null,
+            "priceString": null
+          },
+          "countryName": null
+        }
+      },
+      "type": "Body Moisturizers"
+    },
+    "reviews_raw": {
+      "averageOverallRating": 4.8,
+      "aspects": [
+        {
+          "id": "11428",
+          "name": "Skin",
+          "score": null,
+          "snippetCount": 180
+        },
+        {
+          "id": "4182",
+          "name": "Dry",
+          "score": null,
+          "snippetCount": 139
+        },
+        {
+          "id": "1128",
+          "name": "Smell",
+          "score": null,
+          "snippetCount": 106
+        },
+        {
+          "id": "267742",
+          "name": "Absorbency",
+          "score": null,
+          "snippetCount": 99
+        },
+        {
+          "id": "36784",
+          "name": "Moisture",
+          "score": null,
+          "snippetCount": 72
+        },
+        {
+          "id": "218922",
+          "name": "Hydrating",
+          "score": null,
+          "snippetCount": 56
+        },
+        {
+          "id": "2857",
+          "name": "Feel",
+          "score": null,
+          "snippetCount": 51
+        },
+        {
+          "id": "134334",
+          "name": "Greasy",
+          "score": null,
+          "snippetCount": 33
+        },
+        {
+          "id": "9450",
+          "name": "Residue",
+          "score": null,
+          "snippetCount": 29
+        },
+        {
+          "id": "4282",
+          "name": "Shower",
+          "score": null,
+          "snippetCount": 28
+        },
+        {
+          "id": "3487",
+          "name": "Body",
+          "score": null,
+          "snippetCount": 27
+        },
+        {
+          "id": "9201",
+          "name": "Applying",
+          "score": null,
+          "snippetCount": 25
+        },
+        {
+          "id": "516",
+          "name": "Smoothness",
+          "score": null,
+          "snippetCount": 23
+        },
+        {
+          "id": "9058",
+          "name": "Softness",
+          "score": null,
+          "snippetCount": 23
+        },
+        {
+          "id": "9552",
+          "name": "Texture",
+          "score": null,
+          "snippetCount": 22
+        },
+        {
+          "id": "16487",
+          "name": "Legs",
+          "score": null,
+          "snippetCount": 22
+        },
+        {
+          "id": "2637",
+          "name": "Routine",
+          "score": null,
+          "snippetCount": 20
+        },
+        {
+          "id": "5906",
+          "name": "Face",
+          "score": null,
+          "snippetCount": 20
+        },
+        {
+          "id": "867",
+          "name": "Arms",
+          "score": null,
+          "snippetCount": 19
+        },
+        {
+          "id": "44",
+          "name": "Morning",
+          "score": null,
+          "snippetCount": 19
+        },
+        {
+          "id": "19774",
+          "name": "Elbows",
+          "score": null,
+          "snippetCount": 19
+        },
+        {
+          "id": "6569945",
+          "name": "Pump",
+          "score": null,
+          "snippetCount": 19
+        },
+        {
+          "id": "12",
+          "name": "Ease Of Use",
+          "score": null,
+          "snippetCount": 19
+        },
+        {
+          "id": "75047",
+          "name": "Formula",
+          "score": null,
+          "snippetCount": 17
+        },
+        {
+          "id": "6296419",
+          "name": "Ceramides",
+          "score": null,
+          "snippetCount": 17
+        }
+      ],
+      "aspectSummary": null,
+      "reviewSummary": null,
+      "lookupId": "5IX1LJOH8FQH",
+      "customerReviews": [
+        {
+          "reviewId": "368203556",
+          "rating": 5,
+          "reviewSubmissionTime": "12/18/2024",
+          "reviewText": "This creamy lotion has changed my skin texture and moisture level, even in hot Southern California Santa Ana wind conditions. Usually have cracked, bleeding knuckles and fingertips all Fall %26 Winter but NOT THIS YEAR! I highly recommend this product!!!",
+          "reviewTitle": "Absolute Must in Winter!",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Cary",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "368904179",
+          "rating": 5,
+          "reviewSubmissionTime": "12/22/2024",
+          "reviewText": "As I have gotten older, I have developed dry skin on my forearms and the back of my hands. The CeraVe solution works really good without making my arms oily.",
+          "reviewTitle": "CeraVe solution",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Stephen",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "365028937",
+          "rating": 5,
+          "reviewSubmissionTime": "11/26/2024",
+          "reviewText": "This lotion works!  My dry, itchy skin has vastly improved since using this lotion.  Noticed a difference within a few days.  It rubs in easily and is non greasy.  Would highly recommend.",
+          "reviewTitle": "Great lotion",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Anonymous",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "361829103",
+          "rating": 5,
+          "reviewSubmissionTime": "10/30/2024",
+          "reviewText": "I have used it's previous version, CeraVe Daily moisturizing Lotion, I was happy with the product quality, so this time I was also ordering the same, but I found that CeraVe launched a new lotion called, CeraVe Intensive Moisturizing Body Lotion, and Used it for the first, and It's very nice and moisturize the skin even perfect compare to previous lotion.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "362601302",
+          "rating": 5,
+          "reviewSubmissionTime": "11/6/2024",
+          "reviewText": "I have skin that is very thin and very delicate. CereVe makes my skin feel supple and healthy. I use many of their products. They work well,  compared to many other products.",
+          "reviewTitle": "CereVe is just better!",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Francis",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "370388443",
+          "rating": 5,
+          "reviewSubmissionTime": "1/2/2025",
+          "reviewText": "It is a highly rated product and company. It works even better than stated and moisturizes easily for three days.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "366319609",
+          "rating": 5,
+          "reviewSubmissionTime": "12/5/2024",
+          "reviewText": "It is very helpful when you have very dry skin. You can fell the skin smooth right after you apply it a couple of times!",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Leticia",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "321568410",
+          "rating": 5,
+          "reviewSubmissionTime": "10/19/2024",
+          "reviewText": "I love this new super moisturizing lotion!  It makes my skin feel super soft and smooth.  I am 70 with dry skin and this lotion makes it look youthful again.  I love the pump and use this every day in my skincare routine.  I put some on my neck before my sunscreen for some extra moisture.  This is one of my new favorites from CeraVe along with the new SPF 50 face lotion.  Yay to no Parabens and no Phenoxyethanol, thank you!",
+          "reviewTitle": "OH WOW THIS IS AMAZING!",
+          "negativeFeedback": 0,
+          "positiveFeedback": 5,
+          "userNickname": "JodyLovesCeraVe",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": null,
+          "clientResponses": null,
+          "syndicationSource": {
+            "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a4477188-21cf-47fe-abee-a0651aa79d3b",
+            "contentLink": null,
+            "name": "cerave.com"
+          },
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "363324096",
+          "rating": 5,
+          "reviewSubmissionTime": "11/12/2024",
+          "reviewText": "I love this! I can be sensitive to fragrance and this is a great choice. I like it even better than Cetaphil! The smooth soft skin lasts for days!",
+          "reviewTitle": "Amazing!",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Lisa",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        },
+        {
+          "reviewId": "364349995",
+          "rating": 1,
+          "reviewSubmissionTime": "11/21/2024",
+          "reviewText": "This was the item that was delivered to wrong address - I had ordered this from Walmart because the price was better.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": null
+        }
+      ],
+      "ratingValueFiveCount": 650,
+      "ratingValueFourCount": 98,
+      "ratingValueOneCount": 2,
+      "ratingValueThreeCount": 20,
+      "ratingValueTwoCount": 6,
+      "roundedAverageOverallRating": 4.8,
+      "topNegativeReview": {
+        "reviewId": "364349995",
+        "rating": 1,
+        "reviewSubmissionTime": "11/21/2024",
+        "userNickname": "WalmartCustomer",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "This was the item that was delivered to wrong address - I had ordered this from Walmart because the price was better.",
+        "reviewTitle": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "media": null
+      },
+      "topPositiveReview": {
+        "reviewId": "368203556",
+        "rating": 5,
+        "reviewSubmissionTime": "12/18/2024",
+        "userNickname": "Cary",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "This creamy lotion has changed my skin texture and moisture level, even in hot Southern California Santa Ana wind conditions. Usually have cracked, bleeding knuckles and fingertips all Fall %26 Winter but NOT THIS YEAR! I highly recommend this product!!!",
+        "reviewTitle": "Absolute Must in Winter!",
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "clientResponses": null,
+        "media": null
+      },
+      "topProductMedia": [
+        {
+          "id": "9fa718c6-7676-44da-a879-cce11d767612",
+          "reviewId": "0e4d2fe9-638a-5890-9e44-93341cf1a26e",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-1172/k2-_792a6002-4df1-4a6b-befc-06386a19b62b.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-1172/k2-_792a6002-4df1-4a6b-befc-06386a19b62b.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "bc309510-a371-48fd-8471-0c068110be1f",
+          "reviewId": "0e4d2fe9-638a-5890-9e44-93341cf1a26e",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-883a/k2-_7d53768b-428b-48cf-94b5-2d20e22b339f.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-883a/k2-_7d53768b-428b-48cf-94b5-2d20e22b339f.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "3764d149-fcca-4686-8f92-24eb23e140c2",
+          "reviewId": "318846d0-1b46-523b-a80a-308479a6208e",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-4d5b/k2-_e90f2881-c88d-4cf6-8a33-0b0c181f860b.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-4d5b/k2-_e90f2881-c88d-4cf6-8a33-0b0c181f860b.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "3cf5bd50-ab53-4ea6-aa5f-8f2b309514d3",
+          "reviewId": "318846d0-1b46-523b-a80a-308479a6208e",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-6e45/k2-_70b35304-6beb-48fd-ba47-b49230552aa0.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-6e45/k2-_70b35304-6beb-48fd-ba47-b49230552aa0.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "f44e562c-9686-4bc8-b7fb-0bb3c36b0cc1",
+          "reviewId": "bc35e97d-1757-5526-9e1a-087cc90f8a63",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-753b/k2-_05e73033-20cc-4c98-9d06-75c365a48cb4.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-753b/k2-_05e73033-20cc-4c98-9d06-75c365a48cb4.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "f953f311-d54d-4afb-8426-5c868d91cdcf",
+          "reviewId": "d7d6bec3-7bea-5397-8bbd-885a8feb314e",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-2d8c/k2-_d26ca6d0-0a28-4ed8-8e28-09ebc06bda41.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-2d8c/k2-_d26ca6d0-0a28-4ed8-8e28-09ebc06bda41.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "b25e8c15-93fb-4369-a662-55fc3867e6bb",
+          "reviewId": "d0033dd3-f166-5e7f-b08d-70bff86582a5",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-765f/k2-_3b5278e8-01c8-4101-b982-5abf0bd2f508.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-765f/k2-_3b5278e8-01c8-4101-b982-5abf0bd2f508.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "ea9453ac-d311-40f1-b256-100c823943fa",
+          "reviewId": "d0033dd3-f166-5e7f-b08d-70bff86582a5",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-7674/k2-_09059269-f589-4f3f-bd87-7ae03563b148.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-7674/k2-_09059269-f589-4f3f-bd87-7ae03563b148.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "6d174871-1e80-4163-8654-49d265727957",
+          "reviewId": "50d86b75-3d2c-569f-a7ff-2a93aa348b7f",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-3f81/k2-_abd3382b-e1df-49a9-b0a8-0a3affa8dda1.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-3f81/k2-_abd3382b-e1df-49a9-b0a8-0a3affa8dda1.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "3a58b09d-b984-4f25-a804-a11ce0754b15",
+          "reviewId": "ec98aa0e-90a3-54f4-a2f0-983f143e6771",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-4a64/k2-_737f613c-ff8b-47d9-aa65-e2add7587425.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-4a64/k2-_737f613c-ff8b-47d9-aa65-e2add7587425.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "788699d8-ad93-4e26-a8ec-e30e32793d58",
+          "reviewId": "f5b6000b-1096-5b4e-bddd-b44282c09c22",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-30e2/k2-_afba8899-13e5-4384-ba0a-3f18c88aa13a.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-30e2/k2-_afba8899-13e5-4384-ba0a-3f18c88aa13a.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        }
+      ],
+      "totalMediaCount": 299,
+      "totalReviewCount": 776,
+      "reviewsWithTextCount": 724,
+      "percentageFiveCount": 84,
+      "percentageFourCount": 13,
+      "percentageThreeCount": 3,
+      "percentageTwoCount": 1,
+      "percentageOneCount": 0,
+      "reviewAndRatingCountAsString": {
+        "totalReviewsCountAsString": "776",
+        "reviewsWithTextCountAsString": "724",
+        "ratingValueOneCountAsString": "2",
+        "ratingValueTwoCountAsString": "6",
+        "ratingValueThreeCountAsString": "20",
+        "ratingValueFourCountAsString": "98",
+        "ratingValueFiveCountAsString": "650"
+      },
+      "reviewFeatures": null,
+      "itemVariantInfo": null
+    }
+  },
+  {
+    "product": {
+      "availabilityStatus": "IN_STOCK",
+      "averageRating": 4,
+      "brand": "Renwick",
+      "shortDescription": "<p>Featuring a plywood frame, foam fill, solid pine wood legs, and faux leather upholstery, this PVC leather club chair can be a delightful addition to any seating ensemble. With the ability to hold up to 300lb/136kg, it’s capable of providing both kids and adults with a strong and durable seat. The curved back and armrest introduce soft lines to your space and the chair offers a nice-looking spot to kick back and relax in the living room, bedroom, kids room, home bar, or for commercial use in the café, hotel and suchlike.</p>",
+      "id": "12QHD8FUS59M",
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "D964C267809747B9B5B8EEA1B4DA9184",
+            "url": "https://i5.walmartimages.com/seo/Renwick-Faux-Leather-Barrel-Accent-Chair-Set-of-2-Black_30b6ace1-0122-449f-b16d-b8e565ade087.93539e7be430d1015236affce7585c7f.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "51C4AE3C85644F2DBEBD34A7708F4092",
+            "url": "https://i5.walmartimages.com/asr/c1b6124e-8f16-48ee-bcb3-61fc358ddc71.cd3aa1f7e79c2984dd4103e93893efcc.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "A444E224BF2E4B189BC40DDD54DEF001",
+            "url": "https://i5.walmartimages.com/asr/f0f3e65d-4b73-466e-a697-b4d73742a4df.a914dd8451d535e4803b172fb6bdf19d.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "1ED4256171574A879E2D4B33EC84965B",
+            "url": "https://i5.walmartimages.com/asr/37907e5c-f9ad-499c-9141-8f229b226dd2.c8d998c29c2b4aad06c1279e7b92fc71.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "7A8E61AB0A3D496F943C2A5E32FC2CEE",
+            "url": "https://i5.walmartimages.com/asr/ef9d5091-2ba6-4a65-b677-898b8303602f.8031414b56059f917e8226a89c21ed08.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "044FA3747F6F4C42BFBCA0303A136A5C",
+            "url": "https://i5.walmartimages.com/asr/4fcddfb1-5707-47ff-9100-e7914ff491e1.625b69ba56bcc7dcc183d0d5fa0cb161.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "D87B668668F54FD2B684A9DE81855B66",
+            "url": "https://i5.walmartimages.com/asr/4c046e72-e241-4f3c-8618-3b3803ba8920.2e2287aee5961968b42072a5b789ad41.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "5798CE0515814EC3AA4E63F5B6D81409",
+            "url": "https://i5.walmartimages.com/asr/600af71c-6f14-43fd-9dce-511d185ce8f9.12e3db7163b012f91a74046f6d6911ad.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "1BA020F482BA4C0CA131A733DD52DDC1",
+            "url": "https://i5.walmartimages.com/asr/8570bb52-7e49-40c6-9ce5-d512d8dae55e.be9804d4a349d008abe042f1718960a8.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "53334AD223464D9DAE734C48E1494F13",
+            "url": "https://i5.walmartimages.com/asr/fec5baec-3b34-4227-9061-c47bc3fac90c.51fc4b36f445746d90d0374d222ea600.png",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/Renwick-Faux-Leather-Barrel-Accent-Chair-Set-of-2-Black_30b6ace1-0122-449f-b16d-b8e565ade087.93539e7be430d1015236affce7585c7f.jpeg"
+      },
+      "name": "Renwick Faux Leather Barrel Accent Chair for Living Room, Set of 2, Black",
+      "orderMinLimit": 1,
+      "orderLimit": 99,
+      "priceInfo": {
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": true,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": true,
+          "submapType": null,
+          "isB2BPrice": false
+        },
+        "currentPrice": {
+          "price": 150,
+          "priceString": "$150.00",
+          "variantPriceString": "$150.00",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "priceDisplay": "Now $150.00"
+        },
+        "wasPrice": {
+          "price": 199.99,
+          "priceString": "$199.99",
+          "variantPriceString": null,
+          "currencyUnit": "USD",
+          "bestValue": null
+        },
+        "comparisonPrice": null,
+        "unitPrice": null,
+        "savings": null,
+        "savingsAmount": {
+          "amount": 49.99,
+          "priceString": "SAVE $49.99"
+        },
+        "secondaryOfferBoost": null,
+        "shipPrice": null,
+        "isPriceReduced": true,
+        "priceReducedDisplay": "Now $150.00",
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null,
+        "additionalFees": {
+          "dutyFee": {
+            "price": null,
+            "priceString": null
+          },
+          "shippingAndImportFee": {
+            "price": null,
+            "priceString": null
+          },
+          "estimatedTotalPrice": {
+            "price": null,
+            "priceString": null
+          },
+          "countryName": null
+        }
+      },
+      "type": "Armchairs & Accent Chairs"
+    },
+    "reviews_raw": {
+      "averageOverallRating": 4,
+      "aspects": [
+        {
+          "id": "4466",
+          "name": "Comfort",
+          "score": null,
+          "snippetCount": 52
+        },
+        {
+          "id": "582",
+          "name": "Appearance",
+          "score": null,
+          "snippetCount": 50
+        },
+        {
+          "id": "2539",
+          "name": "Back",
+          "score": null,
+          "snippetCount": 38
+        },
+        {
+          "id": "252",
+          "name": "Assembly",
+          "score": null,
+          "snippetCount": 35
+        },
+        {
+          "id": "48",
+          "name": "Price",
+          "score": null,
+          "snippetCount": 30
+        },
+        {
+          "id": "155",
+          "name": "Quality",
+          "score": null,
+          "snippetCount": 27
+        },
+        {
+          "id": "2494",
+          "name": "Sitting",
+          "score": null,
+          "snippetCount": 20
+        },
+        {
+          "id": "21",
+          "name": "Size",
+          "score": null,
+          "snippetCount": 18
+        },
+        {
+          "id": "16487",
+          "name": "Legs",
+          "score": null,
+          "snippetCount": 17
+        },
+        {
+          "id": "2901",
+          "name": "For Adults",
+          "score": null,
+          "snippetCount": 15
+        },
+        {
+          "id": "407",
+          "name": "Kids",
+          "score": null,
+          "snippetCount": 13
+        },
+        {
+          "id": "13948",
+          "name": "Seat",
+          "score": null,
+          "snippetCount": 13
+        },
+        {
+          "id": "284",
+          "name": "Value",
+          "score": null,
+          "snippetCount": 12
+        },
+        {
+          "id": "1010",
+          "name": "Room",
+          "score": null,
+          "snippetCount": 11
+        },
+        {
+          "id": "3151",
+          "name": "Support",
+          "score": null,
+          "snippetCount": 11
+        },
+        {
+          "id": "16257",
+          "name": "Chair",
+          "score": null,
+          "snippetCount": 10
+        },
+        {
+          "id": "17688",
+          "name": "Cushion",
+          "score": null,
+          "snippetCount": 10
+        },
+        {
+          "id": "273",
+          "name": "Office",
+          "score": null,
+          "snippetCount": 9
+        },
+        {
+          "id": "178",
+          "name": "Color",
+          "score": null,
+          "snippetCount": 9
+        },
+        {
+          "id": "21674",
+          "name": "Putting Together",
+          "score": null,
+          "snippetCount": 8
+        },
+        {
+          "id": "18591",
+          "name": "For Small Spaces",
+          "score": null,
+          "snippetCount": 8
+        },
+        {
+          "id": "2427",
+          "name": "Corner",
+          "score": null,
+          "snippetCount": 7
+        },
+        {
+          "id": "19438",
+          "name": "Leather",
+          "score": null,
+          "snippetCount": 7
+        },
+        {
+          "id": "1032",
+          "name": "Decor",
+          "score": null,
+          "snippetCount": 6
+        },
+        {
+          "id": "3827",
+          "name": "Bedroom",
+          "score": null,
+          "snippetCount": 6
+        }
+      ],
+      "aspectSummary": null,
+      "reviewSummary": {
+        "summary": "Customers praise the product's value, comfort, and modern appearance, making it ideal for small spaces. However, they express dissatisfaction with the back, citing its lack of support and comfort. While it's a good value for the money, its small and shallow design makes it uncomfortable for sitting, and the short back design compromises its usability.",
+        "summaryTitle": "Comfortable and stylish option for small spaces with some drawbacks",
+        "summaryAspects": [
+          {
+            "aspectId": 2539,
+            "aspectStart": 309,
+            "aspectEnd": 318,
+            "aspectSentiment": "negative"
+          },
+          {
+            "aspectId": 582,
+            "aspectStart": 51,
+            "aspectEnd": 67,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 3151,
+            "aspectStart": 168,
+            "aspectEnd": 182,
+            "aspectSentiment": "negative"
+          },
+          {
+            "aspectId": 18591,
+            "aspectStart": 86,
+            "aspectEnd": 101,
+            "aspectSentiment": "positive"
+          }
+        ]
+      },
+      "lookupId": "6175LH8ZJL28",
+      "customerReviews": [
+        {
+          "reviewId": "366831840",
+          "rating": 5,
+          "reviewSubmissionTime": "12/9/2024",
+          "reviewText": "It is a very nice little chair. Espresso leather color accurate to website and matches my other chairs well.  Sizing just as advertised. It's comfy to sit in for extra seating in my LR for guests. The back is short so not a tall people chair but perfect for what I needed as an accent chair and extra seating.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Espresso"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "reviewId": "366753585",
+          "rating": 5,
+          "reviewSubmissionTime": "12/8/2024",
+          "reviewText": "“This chair is both comfortable and compact, making it perfect for my limited space. It accommodates clients of all sizes while they wait to get their nails done.”",
+          "reviewTitle": "Great for small areas!",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Donna",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": [
+            {
+              "id": "da93b022-bff7-4309-8848-1c1ecf003010",
+              "reviewId": "2f83a4c3-39f1-554e-bda2-b5f11a569746",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-fd7e/k2-_f376ab88-7743-4358-ac56-08deb046a40e.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-fd7e/k2-_f376ab88-7743-4358-ac56-08deb046a40e.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            },
+            {
+              "id": "c8de3154-e81a-4827-9dd3-6941f885722f",
+              "reviewId": "2f83a4c3-39f1-554e-bda2-b5f11a569746",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-749d/k2-_3224208c-77f3-4ecd-b9a1-05bc26e90ec6.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-749d/k2-_3224208c-77f3-4ecd-b9a1-05bc26e90ec6.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Espresso"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "reviewId": "360207522",
+          "rating": 5,
+          "reviewSubmissionTime": "10/14/2024",
+          "reviewText": "I love this was so easy to assemble on my own and it matches my sectional sofa perfectly. Now to cancel the Angi service previously requested because I no longer need them...",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Carolyn",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Brown"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "reviewId": "366141712",
+          "rating": 4,
+          "reviewSubmissionTime": "12/4/2024",
+          "reviewText": "The chairs arrived in good condition and are easy to attach legs, They look nice but are on the small side. Works good for children but not for adults. Using in a bedroom with some limited space.",
+          "reviewTitle": "Temporary chairs for Bedroom",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "MICHAEL",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Espresso"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "reviewId": "367232831",
+          "rating": 3,
+          "reviewSubmissionTime": "12/11/2024",
+          "reviewText": "The chairs were cute, affordable and easy to put together but they were very small and kind of uncomfortable, so keep that in mind before purchasing them.",
+          "reviewTitle": "Cute but small",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Jenna",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "reviewId": "366165076",
+          "rating": 2,
+          "reviewSubmissionTime": "12/4/2024",
+          "reviewText": "Very nice looking piece, but very uncomfortable.   Fortunately for me, it is more to fill a space, than for actual use. Delivered missing a seat cushion.  Manufacturer would not respond, but Walmart customer service was outstanding at solving the problem.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Murph",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Brown"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "reviewId": "360204415",
+          "rating": 2,
+          "reviewSubmissionTime": "10/14/2024",
+          "reviewText": "The chairs are very uncomfortable. After I put the legs on the chairs, I had to do a lot of adjustment to keep them from wobbling one side to the other. I plan on returning them.",
+          "reviewTitle": "Chairs",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Gail",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gray"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "reviewId": "365049452",
+          "rating": 2,
+          "reviewSubmissionTime": "11/26/2024",
+          "reviewText": "These chairs are tiny. The back of the chair ends at my lower back so basically, no back support at all.  They are very hard and the scale is small. They look like kid chairs. I'll be returning or selling these chairs for a loss.",
+          "reviewTitle": "Tiny and uncomfortable",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Erin",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Brown"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "reviewId": "365425852",
+          "rating": 1,
+          "reviewSubmissionTime": "11/29/2024",
+          "reviewText": "ordered the set of two chairs. Only one showed up and was missing the seat cushion. Called customer service. They arranged to pick up for refund and put in new order. Received today an only one chair showed ip again. Didn't even open box to see if all the parts eere there.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Donald",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "reviewId": "359187918",
+          "rating": 1,
+          "reviewSubmissionTime": "10/3/2024",
+          "reviewText": "They delivered this item to an address in Alaska meanwhile I live in PA, and I was issued a refund but not sure why that happened, beware guys that was a scam done using this product.",
+          "reviewTitle": "scam",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Anne",
+          "fulfilledBy": "Seller",
+          "status": null,
+          "sellerName": "QinHuangDaoJuanCiShangMaoYouXianGongSi",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Multipack quantity",
+              "value": "2"
+            }
+          ]
+        }
+      ],
+      "ratingValueFiveCount": 372,
+      "ratingValueFourCount": 76,
+      "ratingValueOneCount": 78,
+      "ratingValueThreeCount": 52,
+      "ratingValueTwoCount": 37,
+      "roundedAverageOverallRating": 4,
+      "topNegativeReview": {
+        "reviewId": "365425852",
+        "rating": 1,
+        "reviewSubmissionTime": "11/29/2024",
+        "userNickname": "Donald",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "ordered the set of two chairs. Only one showed up and was missing the seat cushion. Called customer service. They arranged to pick up for refund and put in new order. Received today an only one chair showed ip again. Didn't even open box to see if all the parts eere there.",
+        "reviewTitle": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "media": null
+      },
+      "topPositiveReview": {
+        "reviewId": "366831840",
+        "rating": 5,
+        "reviewSubmissionTime": "12/9/2024",
+        "userNickname": "WalmartCustomer",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "It is a very nice little chair. Espresso leather color accurate to website and matches my other chairs well.  Sizing just as advertised. It's comfy to sit in for extra seating in my LR for guests. The back is short so not a tall people chair but perfect for what I needed as an accent chair and extra seating.",
+        "reviewTitle": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "clientResponses": null,
+        "media": null
+      },
+      "topProductMedia": [
+        {
+          "id": "da93b022-bff7-4309-8848-1c1ecf003010",
+          "reviewId": "2f83a4c3-39f1-554e-bda2-b5f11a569746",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-fd7e/k2-_f376ab88-7743-4358-ac56-08deb046a40e.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-fd7e/k2-_f376ab88-7743-4358-ac56-08deb046a40e.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "c8de3154-e81a-4827-9dd3-6941f885722f",
+          "reviewId": "2f83a4c3-39f1-554e-bda2-b5f11a569746",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-749d/k2-_3224208c-77f3-4ecd-b9a1-05bc26e90ec6.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-749d/k2-_3224208c-77f3-4ecd-b9a1-05bc26e90ec6.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "e1ef4a0c-1408-427f-a3a2-77f1c428a5c3",
+          "reviewId": "eda9de1c-95b1-5e16-8f9e-5f541adfc7ed",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-4e79/k2-_8dea317f-d24c-4cde-aba4-b9b59a1726bc.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-4e79/k2-_8dea317f-d24c-4cde-aba4-b9b59a1726bc.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "fb6306dc-09f7-48f4-8813-6242e1cd10c7",
+          "reviewId": "eda9de1c-95b1-5e16-8f9e-5f541adfc7ed",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-9c51/k2-_2b133826-3047-4794-93b0-85dd5fd06a31.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-9c51/k2-_2b133826-3047-4794-93b0-85dd5fd06a31.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "f2333c74-40aa-46d1-8250-da7d204e6133",
+          "reviewId": "caaa9940-0692-5654-8227-5f3b96a2c530",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-40f9/k2-_c7328f23-b905-427f-ba6c-2027fd9308b9.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-40f9/k2-_c7328f23-b905-427f-ba6c-2027fd9308b9.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "5f34e833-545e-43e0-a10a-2ad8ddc6bd55",
+          "reviewId": "caaa9940-0692-5654-8227-5f3b96a2c530",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-3c1a/k2-_821c2b3d-92e5-4faf-bd63-649492460cc5.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-3c1a/k2-_821c2b3d-92e5-4faf-bd63-649492460cc5.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "e05eefca-5fd6-425c-9a4f-b20b5a624172",
+          "reviewId": "50a80320-8456-5bea-9c45-d8f3dad22212",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-c79b/k2-_80e44a87-c948-497c-99d7-c2e32f8aced8.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-c79b/k2-_80e44a87-c948-497c-99d7-c2e32f8aced8.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "7625acba-2c6f-47c0-884a-7342219db01b",
+          "reviewId": "cf505294-1841-548d-87ad-366707a2370c",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-8d7a/k2-_dfee8506-a137-4b4f-a166-785365a55e75.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-8d7a/k2-_dfee8506-a137-4b4f-a166-785365a55e75.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "39a69f32-fa03-437d-9e1f-a224a05a1b92",
+          "reviewId": "0f756a37-ebcc-55bc-b8dd-52ed243f4b74",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-b14a/k2-_479ce507-9f17-4094-94f2-bed7177ff082.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-b14a/k2-_479ce507-9f17-4094-94f2-bed7177ff082.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "94545bb9-76a2-438d-a301-fca36a9634bf",
+          "reviewId": "4818937e-8ad9-512c-9997-138591be495a",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-423b/k2-_befb351a-95fd-4de2-874b-25d14fe307bd.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-423b/k2-_befb351a-95fd-4de2-874b-25d14fe307bd.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "db6a973e-beeb-47c9-b19c-50fa1f32bb4d",
+          "reviewId": "127c05a2-d6dd-584b-a262-7ae66812a048",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-5fbb/k2-_02fd97b4-e340-4543-afb2-80bd9bcabe79.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-5fbb/k2-_02fd97b4-e340-4543-afb2-80bd9bcabe79.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        }
+      ],
+      "totalMediaCount": 41,
+      "totalReviewCount": 615,
+      "reviewsWithTextCount": 303,
+      "percentageFiveCount": 60,
+      "percentageFourCount": 12,
+      "percentageThreeCount": 8,
+      "percentageTwoCount": 6,
+      "percentageOneCount": 13,
+      "reviewAndRatingCountAsString": {
+        "totalReviewsCountAsString": "615",
+        "reviewsWithTextCountAsString": "303",
+        "ratingValueOneCountAsString": "78",
+        "ratingValueTwoCountAsString": "37",
+        "ratingValueThreeCountAsString": "52",
+        "ratingValueFourCountAsString": "76",
+        "ratingValueFiveCountAsString": "372"
+      },
+      "reviewFeatures": null,
+      "itemVariantInfo": null
+    }
+  },
+  {
+    "product": {
+      "availabilityStatus": "IN_STOCK",
+      "averageRating": 3.4,
+      "brand": "CANADA WEATHER GEAR",
+      "shortDescription": "Embrace all-weather comfort and style with CANADA WEATHER GEAR Men's Sweatshirt - crafted from fine yam-dyed flannel. The breathable fabric is ideal as summer long sleeve shirts for men, while its sturdy construction makes it a reliable choice for mens long sleeve construction shirts. With a classic button-down design, it also serves as a stylish men's flannel shirt for layering. Whether you need a men's long sleeve shirt for work, a flannel jacket for men for chilly days, or a casual piece for outdoor adventures, this shirt has you covered.",
+      "id": "3IMEAAOTY1XE",
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "504950D0EE424F86B866C1D4729CDEAD",
+            "url": "https://i5.walmartimages.com/seo/CANADA-WEATHER-GEAR-Men-s-Flannel-Shirt-Casual-Button-Down-Long-Sleeve-Sweatshirts-for-Men-M-XXL_189ff1e7-1f23-408e-9788-e45c579f0e8b.773cca8123b160fb4b3fa396a627c3e4.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "10073AC9829D476881C042D70E67191F",
+            "url": "https://i5.walmartimages.com/asr/e2ddac00-2fde-4bd1-8147-c937361fc2ba.7ae9b4e5e74bea4eb00fe5c03324d055.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "C39CFD68EBF04197A06FCF44A528B9F0",
+            "url": "https://i5.walmartimages.com/asr/0debf380-247c-4ada-90cf-603ee1e8fae7.ac26d7f74a9cb9c22f9c4cf7a4ea9fb5.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "5C016E88986C418191583FE53D5168E4",
+            "url": "https://i5.walmartimages.com/asr/c4820a8c-86d5-4fe8-8ecc-6c16eb124bd7.dd61189f3b7c7060819b2d80fe3a27bf.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "F246A826FFCF478AA7F6B757770E37C7",
+            "url": "https://i5.walmartimages.com/asr/36217c15-0dc6-4a3c-a708-803213b65328.b9752a17a82e1b7489fdaaa9a39f8a0d.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "6C883F2D90F04F2C820F97F867F7300A",
+            "url": "https://i5.walmartimages.com/asr/05318081-2a0d-4931-a29c-1810a0c1aae0.2b35cdccb02b83f4f72f2fb241f31a12.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "06B02D29E78147BD94D28474CE8A01B1",
+            "url": "https://i5.walmartimages.com/asr/2bbc2d05-7920-4554-8544-e72f5ee914dd.781166f6458d1dbafeaac127292a1c5d.jpeg",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/CANADA-WEATHER-GEAR-Men-s-Flannel-Shirt-Casual-Button-Down-Long-Sleeve-Sweatshirts-for-Men-M-XXL_189ff1e7-1f23-408e-9788-e45c579f0e8b.773cca8123b160fb4b3fa396a627c3e4.jpeg"
+      },
+      "name": "CANADA WEATHER GEAR Men's Flannel Shirt - Casual Button Down Long Sleeve Sweatshirts for Men (M-XXL)",
+      "orderMinLimit": 1,
+      "orderLimit": 12,
+      "priceInfo": {
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": null,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": null,
+          "submapType": null,
+          "isB2BPrice": false
+        },
+        "currentPrice": {
+          "price": 19.99,
+          "priceString": "$19.99",
+          "variantPriceString": "$19.99",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "priceDisplay": "Now $19.99"
+        },
+        "wasPrice": {
+          "price": 29.99,
+          "priceString": "$29.99",
+          "variantPriceString": null,
+          "currencyUnit": "USD",
+          "bestValue": null
+        },
+        "comparisonPrice": null,
+        "unitPrice": null,
+        "savings": null,
+        "savingsAmount": {
+          "amount": 10,
+          "priceString": "SAVE $10.00"
+        },
+        "secondaryOfferBoost": null,
+        "shipPrice": null,
+        "isPriceReduced": true,
+        "priceReducedDisplay": "Now $19.99",
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null,
+        "additionalFees": {
+          "dutyFee": {
+            "price": null,
+            "priceString": null
+          },
+          "shippingAndImportFee": {
+            "price": null,
+            "priceString": null
+          },
+          "estimatedTotalPrice": {
+            "price": null,
+            "priceString": null
+          },
+          "countryName": null
+        }
+      },
+      "type": "Button-Up Shirts"
+    },
+    "reviews_raw": {
+      "averageOverallRating": 3.3636363636363638,
+      "aspects": [],
+      "aspectSummary": null,
+      "reviewSummary": null,
+      "lookupId": "6MVF9ANZ60LC",
+      "customerReviews": [
+        {
+          "reviewId": "365274733",
+          "rating": 5,
+          "reviewSubmissionTime": "11/28/2024",
+          "reviewText": "Bought this for my husband to wear for Thanksgiving. Arrived very quick and it's soft, thick but not too heavy.",
+          "reviewTitle": "Nice basic to dress up or casual",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "DadtoNandN",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Navy"
+            },
+            {
+              "name": "Clothing size",
+              "value": "XL"
+            }
+          ]
+        },
+        {
+          "reviewId": "368219043",
+          "rating": 4,
+          "reviewSubmissionTime": "12/18/2024",
+          "reviewText": "I'm going to buy another one only one size larger than I wear. I think if the one I just bought is true to all of  their shirts, maybe they should move all sizes down one. My XL fit just like a large, so I'm buying an XXL this time.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "John",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Clothing size",
+              "value": "XL"
+            }
+          ]
+        },
+        {
+          "reviewId": "368740098",
+          "rating": 4,
+          "reviewSubmissionTime": "12/21/2024",
+          "reviewText": "Good quality for the price",
+          "reviewTitle": "Quality item",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Joyce",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Clothing size",
+              "value": "XL"
+            }
+          ]
+        },
+        {
+          "reviewId": "367756783",
+          "rating": 4,
+          "reviewSubmissionTime": "12/15/2024",
+          "reviewText": "Ordered XL and it's more like medium",
+          "reviewTitle": "Would buy again if I could find an XL",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Melissa",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Clothing size",
+              "value": "XL"
+            }
+          ]
+        },
+        {
+          "reviewId": "371487378",
+          "rating": 3,
+          "reviewSubmissionTime": "1/9/2025",
+          "reviewText": "Ordered a normal fitting size in xl and it  was very small. Ordered the xxl and it was the same exact size as the xl.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "harmony",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Leafless Tree"
+            },
+            {
+              "name": "Clothing size",
+              "value": "2XL"
+            }
+          ]
+        },
+        {
+          "reviewId": "368772482",
+          "rating": 2,
+          "reviewSubmissionTime": "12/22/2024",
+          "reviewText": "Bought a medium but should have bought an XL. Very thin %26 the color looks more brownish than black. Definitely not worth the price %26 wouldn't recommend. Also late on delivery.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Teresa",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Clothing size",
+              "value": "M"
+            }
+          ]
+        },
+        {
+          "reviewId": "371288657",
+          "rating": 2,
+          "reviewSubmissionTime": "1/8/2025",
+          "reviewText": "I thought it would be thicker \nAnd is way to small",
+          "reviewTitle": "Disappointed",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Cheryl",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Blue"
+            },
+            {
+              "name": "Clothing size",
+              "value": "XL"
+            }
+          ]
+        },
+        {
+          "reviewId": "367937527",
+          "rating": 2,
+          "reviewSubmissionTime": "12/16/2024",
+          "reviewText": "not a large. Now I have to take it back. What a waste of my time.",
+          "reviewTitle": "I ordered a XXL,",
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Michelle",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Blue"
+            },
+            {
+              "name": "Clothing size",
+              "value": "2XL"
+            }
+          ]
+        },
+        {
+          "reviewId": "370527680",
+          "rating": 1,
+          "reviewSubmissionTime": "1/3/2025",
+          "reviewText": "The length is too short.",
+          "reviewTitle": null,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Manuel",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Imperial Brands LLC",
+          "conditionGroupCode": null,
+          "condition": null,
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Clothing size",
+              "value": "2XL"
+            }
+          ]
+        }
+      ],
+      "ratingValueFiveCount": 3,
+      "ratingValueFourCount": 3,
+      "ratingValueOneCount": 1,
+      "ratingValueThreeCount": 1,
+      "ratingValueTwoCount": 3,
+      "roundedAverageOverallRating": 3.4,
+      "topNegativeReview": {
+        "reviewId": "368772482",
+        "rating": 2,
+        "reviewSubmissionTime": "12/22/2024",
+        "userNickname": "Teresa",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "Bought a medium but should have bought an XL. Very thin %26 the color looks more brownish than black. Definitely not worth the price %26 wouldn't recommend. Also late on delivery.",
+        "reviewTitle": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "media": null
+      },
+      "topPositiveReview": {
+        "reviewId": "368219043",
+        "rating": 4,
+        "reviewSubmissionTime": "12/18/2024",
+        "userNickname": "John",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "I'm going to buy another one only one size larger than I wear. I think if the one I just bought is true to all of  their shirts, maybe they should move all sizes down one. My XL fit just like a large, so I'm buying an XXL this time.",
+        "reviewTitle": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "clientResponses": null,
+        "media": null
+      },
+      "topProductMedia": [],
+      "totalMediaCount": 0,
+      "totalReviewCount": 11,
+      "reviewsWithTextCount": 9,
+      "percentageFiveCount": 27,
+      "percentageFourCount": 27,
+      "percentageThreeCount": 9,
+      "percentageTwoCount": 27,
+      "percentageOneCount": 9,
+      "reviewAndRatingCountAsString": {
+        "totalReviewsCountAsString": "11",
+        "reviewsWithTextCountAsString": "9",
+        "ratingValueOneCountAsString": "1",
+        "ratingValueTwoCountAsString": "3",
+        "ratingValueThreeCountAsString": "1",
+        "ratingValueFourCountAsString": "3",
+        "ratingValueFiveCountAsString": "3"
+      },
+      "reviewFeatures": null,
+      "itemVariantInfo": null
+    }
+  },
+  {
+    "product": {
+      "availabilityStatus": "IN_STOCK",
+      "averageRating": null,
+      "brand": "Sofia Jeans by Sofia Vergara",
+      "shortDescription": "Flatter. Your. Figure. Sofia Jeans’ Eva Skinny Ankle High-Rise Jeans feature stretch fabric for an easy fit that slips on and gently hugs your curves. Five functional pockets add to a classic denim look, practical for carrying your smaller items and keeping your phone within reach. Pair these jeans with your favorite tops like short-sleeve tees, tanks, button-up shirts and bodysuits—so your look is tucked in and ready to go. Only at Walmart.",
+      "id": "0SL4USS311IU",
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "ED2C9B8C6C1740C283ED8C988D1E8E55",
+            "url": "https://i5.walmartimages.com/seo/Sofia-Jeans-Women-s-Plus-Size-Eva-Skinny-Ankle-Jeans-Sizes-14W-28W_5538610b-1f1c-4a9e-892a-c963396b6aff.2ab8c91bba15492248167540109c33f1.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "B978AD5B6B7C451A9601645ADC3FCAA3",
+            "url": "https://i5.walmartimages.com/asr/ecb51258-35d1-48ee-9379-82ddd503655a.fec3379c9b88a4de61040f77a06d2ad7.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "A50812833EB94C8FA5B1D3DB69178E90",
+            "url": "https://i5.walmartimages.com/asr/ccee9f60-9001-4f46-b680-f9b6a50f6bb2.2e2ba64a8e05f4c20838be31b1166053.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "360A561C015C45B7A3192E175E494839",
+            "url": "https://i5.walmartimages.com/asr/f02f5fb5-eb5e-4a7d-aec2-09a76d00f3cf.056cef545cb7b8023ed282d882ad8060.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "074A4E2F389F4CB9B68F6A1DD6226C76",
+            "url": "https://i5.walmartimages.com/asr/49ea72fd-594d-44a9-803b-b04d7e257a63.c178eff02c7aa84f432e7d20dae63e0f.jpeg",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/Sofia-Jeans-Women-s-Plus-Size-Eva-Skinny-Ankle-Jeans-Sizes-14W-28W_5538610b-1f1c-4a9e-892a-c963396b6aff.2ab8c91bba15492248167540109c33f1.jpeg"
+      },
+      "name": "Sofia Jeans Women's and Women's Plus Eva Skinny Ankle High Rise Jeans, Sizes 0-28W",
+      "orderMinLimit": 1,
+      "orderLimit": 95,
+      "priceInfo": {
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": true,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": null,
+          "submapType": null,
+          "isB2BPrice": false
+        },
+        "currentPrice": {
+          "price": 22,
+          "priceString": "$22.00",
+          "variantPriceString": "$22.00",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "priceDisplay": "$22.00"
+        },
+        "wasPrice": null,
+        "comparisonPrice": null,
+        "unitPrice": null,
+        "savings": null,
+        "savingsAmount": null,
+        "secondaryOfferBoost": null,
+        "shipPrice": null,
+        "isPriceReduced": false,
+        "priceReducedDisplay": null,
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null,
+        "additionalFees": {
+          "dutyFee": {
+            "price": null,
+            "priceString": null
+          },
+          "shippingAndImportFee": {
+            "price": null,
+            "priceString": null
+          },
+          "estimatedTotalPrice": {
+            "price": null,
+            "priceString": null
+          },
+          "countryName": null
+        }
+      },
+      "type": "Jeans"
+    },
+    "reviews_raw": {
+      "averageOverallRating": null,
+      "aspects": null,
+      "aspectSummary": null,
+      "reviewSummary": null,
+      "lookupId": null,
+      "customerReviews": [],
+      "ratingValueFiveCount": 0,
+      "ratingValueFourCount": 0,
+      "ratingValueOneCount": 0,
+      "ratingValueThreeCount": 0,
+      "ratingValueTwoCount": 0,
+      "roundedAverageOverallRating": null,
+      "topNegativeReview": null,
+      "topPositiveReview": null,
+      "topProductMedia": null,
+      "totalMediaCount": 0,
+      "totalReviewCount": 0,
+      "reviewsWithTextCount": 0,
+      "percentageFiveCount": 0,
+      "percentageFourCount": 0,
+      "percentageThreeCount": 0,
+      "percentageTwoCount": 0,
+      "percentageOneCount": 0,
+      "reviewAndRatingCountAsString": {
+        "totalReviewsCountAsString": "0",
+        "reviewsWithTextCountAsString": "0",
+        "ratingValueOneCountAsString": "0",
+        "ratingValueTwoCountAsString": "0",
+        "ratingValueThreeCountAsString": "0",
+        "ratingValueFourCountAsString": "0",
+        "ratingValueFiveCountAsString": "0"
+      },
+      "reviewFeatures": null,
+      "itemVariantInfo": null
+    }
+  }
+]
