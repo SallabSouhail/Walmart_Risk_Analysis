@@ -130,13 +130,6 @@ Les visualisations sont générées dans le dossier `visualizations/` :
 
 ## 👥 Contribution
 
-Contributions bienvenues ! N'hésitez pas à :
-1. Fork le projet
-2. Créer une branche (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add AmazingFeature'`)
-4. Push sur la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+- [**ANTOINE Ahehehinnou Matial**](https://github.com/antoineahehehinnou)
+- [**NOAM Haythem**](https://github.com/noamgates)
+- [**SALLAB Souhail**](https://github.com/SallabSouhail)
