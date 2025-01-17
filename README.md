@@ -100,7 +100,6 @@ Les visualisations sont générées dans le dossier `visualizations/` :
 - `risk_evolution.png` : Évolution temporelle des risques
 - `sentiment_risk_correlation.png` : Corrélation sentiment-risque
 - `risk_correlation_heatmap.png` : Carte de chaleur des corrélations
-- `high_risk_wordcloud.png` : Nuage de mots des avis à haut risque
 
 ## 🔍 Conclusions et Recommandations
 
